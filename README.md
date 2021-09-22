@@ -1,5 +1,5 @@
-elasticsearch-kibana
+docker-elasticsearch-kibana
 ====================
 ### TODOs
-- Logstash
-- -Beats
+- [Logstash: Collect, Parse, Transform Logs | Elastic](https://www.elastic.co/logstash/)
+- [Beats: Data Shippers for Elasticsearch | Elastic](https://www.elastic.co/beats/)
